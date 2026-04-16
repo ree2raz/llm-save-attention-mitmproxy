@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# mitmproxy
+.mitmproxy/
+
+# zappa-lite
+.env
+*.log
+.uv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
